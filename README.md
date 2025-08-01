@@ -155,7 +155,7 @@ Enter password to analyze: MyP@ss123
 
 🔒 SECURITY ANALYSIS RESULTS
 Password: MyP@ss123
-Score: 100/120 (Strong)
+Score: 100/120 (Strong) 
 
 ✅ Length requirement (8+ chars)
 ✅ Contains uppercase letters  
